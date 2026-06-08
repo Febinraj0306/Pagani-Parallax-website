@@ -1,5 +1,5 @@
 Live Preview:
-    [PAGANI-ZONDA-R]{https://pagani-parallax-website.netlify.app/}
+    [PAGANI-ZONDA-R](https://pagani-parallax-website.netlify.app/)
 
 ## Getting Started
 
